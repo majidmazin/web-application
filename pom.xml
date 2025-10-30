@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Aqib Releases Nexus Repository</name>
-	      <url>http://13.127.227.173:8081/repository/aqib-release/</url>
+	      <name>Maz Releases Nexus Repository</name>
+	      <url>http://54.167.13.14:8081/repository/web-application/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Aqib Snapshot Nexus Repository </name>
-	      <url>http://13.127.227.173:8081/repository/aqib-snapshot/</url>
+	      <name>Maz Snapshot Nexus Repository</name>
+	      <url>http://54.167.13.14:8081/repository/web-application-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
