@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Maz Releases Nexus Repository</name>
-	      <url>http://54.167.13.14:8081/repository/web-application/</url>
+	      <url>http://98.93.53.75:8081/repository/web-application/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Maz Snapshot Nexus Repository</name>
-	      <url>http://54.167.13.14:8081/repository/web-application-snapshot/</url>
+	      <url>http://98.93.53.75:8081/repository/web-application-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
